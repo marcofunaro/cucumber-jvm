@@ -13,7 +13,7 @@ You can [run](https://cucumber.io/docs/reference/jvm#running) it with the tool o
 
 Cucumber-JVM also integrates with all the popular [Dependency Injection containers](https://cucumber.io/docs/reference/java-di).
 
-Some JVM languages have been moved to their own repository:
+ Some JVM languages have been moved to their own repository:
 * [Clojure](https://github.com/cucumber/cucumber-jvm-clojure)
 * [Gosu](https://github.com/cucumber/cucumber-jvm-gosu)
 * [Groovy](https://github.com/cucumber/cucumber-jvm-groovy)
